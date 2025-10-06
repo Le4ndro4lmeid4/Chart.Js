@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 45%;
+    margin: auto;
+    padding: 120px 0 0 0;
+    background-image: url(uva.png);
+    background-size: 100%;
+}
+
+h1 {
+    color: #7b4b94;
+}
+canvas {
+    margin: 0 10px 0 10px;
+    border: 1px solid #4f6d3c;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
